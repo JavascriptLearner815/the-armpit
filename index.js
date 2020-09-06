@@ -1,6 +1,6 @@
 const fs = require('fs'); // Require the file system
 
-const { token, prefix } = require('./config.json');
+const { token, prefix } = require('./config.json'); // Gets data from config
 
 const Discord = require('discord.js'); // Require the discord.js module
 
