@@ -1,0 +1,9 @@
+.env
+config.json
+settings.json
+/.vscode
+.vscode
+/node_modules
+/private
+.eslintrc.json
+.eslintrc 
